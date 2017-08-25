@@ -1,0 +1,26 @@
+{
+  "name": "firebaseapp",
+  "version": "1.0.0",
+  "description": "firebase test app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": "6.11.1"
+  },
+  "dependencies": {
+    "ejs": "2.5.6",
+    "express": "4.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/byblix/development/tree/master/firebaseapp"
+  },
+  "keywords": [
+    "firebase"
+  ],
+  "author": "",
+  "license": "ISC"
+}
